@@ -4,3 +4,4 @@ logo: /assets/images/favicon.ico
 
 gems:
   - jekyll-seo-tag
+  - jekyll-sitemap
