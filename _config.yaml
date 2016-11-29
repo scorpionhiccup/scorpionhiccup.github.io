@@ -1,6 +1,9 @@
-title: Sharvil Katariya Website
+title: Sharvil Katariya
 description: Software Developer | Undergrad CSE Student
 logo: /assets/images/favicon.ico
+permalink: pretty
+exclude: [".gitignore",
+            "Gemfile"]
 
 gems:
   - jekyll-seo-tag
