@@ -1,3 +1,3 @@
 # scorpionhiccup.github.io
 
-Personal Portfolio
+Personal Portfolio - Sharvil Katariya
