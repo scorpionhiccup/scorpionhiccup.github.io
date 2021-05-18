@@ -109,7 +109,7 @@ particlesJS("particles-js", {
   "retina_detect": true
 });
 
-var scene = document.getElementById('main_section');
+var scene = document.getElementsByClassName('main_section');
 var parallax = new Parallax(scene);
 var description = document.getElementById('description');
 var parallax = new Parallax(description);
